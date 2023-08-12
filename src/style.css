@@ -1,0 +1,95 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.container-1 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-left: 500px;
+  box-shadow: 2px 2px 4px gray;
+  padding-bottom: 18px;
+  padding-right: 15px;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.bell {
+  width: 20px;
+}
+
+#logo {
+  width: 20px;
+}
+
+.heading {
+  font-size: 30px;
+  font-weight: 300;
+  padding-left: 500px;
+  padding-top: 35px;
+  padding-bottom: 15px;
+}
+
+.container-2 {
+  display: flex;
+  padding-left: 500px;
+}
+
+.title {
+  padding-top: 30px;
+  padding-left: 500px;
+  font-weight: 500;
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+
+.Zero {
+  font-size: 50px;
+  font-weight: 100;
+  padding-bottom: 10px;
+}
+
+.gray {
+  color: gray;
+  font-size: 15px;
+  font-weight: 200;
+}
+
+.container-3 {
+  padding-top: 20px;
+  padding-left: 150px;
+  line-height: 35px;
+  padding-bottom: 20px;
+}
+
+.bold {
+  font-weight: bold;
+  color: black;
+  padding-left: 15px;
+}
+
+.blue {
+  color: blue;
+}
+
+
+.green {
+  color: green;
+  font-size: 50px;
+}
+
+.container-4 {
+  padding-left: 150px;
+  line-height: 35px;
+  padding-bottom: 20px;
+}
